@@ -12,7 +12,7 @@
   [![Перевод на русский](https://img.shields.io/badge/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-lightgrey.svg)](https://github-com.translate.goog/paebiru?_x_tr_sl=pt&_x_tr_tl=ru)
   [![ترجمة عربية](https://img.shields.io/badge/%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-green.svg)](https://github-com.translate.goog/paebiru?_x_tr_sl=pt&_x_tr_tl=ar)
 
-  [Website](https://paebiru.org) | [Documentation](https://github.com/paebiru/paebiru/tree/main/docs) | [Roadmap](https://github.com/paebiru/paebiru/blob/main/ROADMAP.md)
+  [Website](https://paebiru.org) | [Documentation](https://github.com/paebiru/paebiru/tree/main/docs) | [Roadmap](https://github.com/paebiru/paebiru/tree/main/docs/src/ROADMAP.md)
 
   </div>
 
