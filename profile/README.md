@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/paebiru/paebiru/main/docs/src/assets/images/wallpapers/paebiru-liquid.png" width="100%" alt="Paebiru Header" />
-
   # Paebiru
 
   **Protocolo Assíncrono de Ecossistemas Biológicos para Infraestruturas Recursivas Universais**
