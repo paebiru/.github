@@ -1,4 +1,4 @@
-  # Paebiru
+  #
 
   **Protocolo Assíncrono de Ecossistemas Biológicos para Infraestruturas Recursivas Universais**
 
